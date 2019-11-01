@@ -1,3 +1,5 @@
+3 INSTANCES.
+
 rs.status(): 
 ```{
 	"set" : "rs0",
