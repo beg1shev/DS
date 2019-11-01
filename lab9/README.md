@@ -433,3 +433,5 @@ rs.config():
 	}
 }
 ```
+![Image description](https://github.com/beg1shev/DS/blob/master/lab9/images/1.png)
+![Image description](https://github.com/beg1shev/DS/blob/master/lab9/images/2.png)
