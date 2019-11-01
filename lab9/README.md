@@ -1,5 +1,5 @@
 rs.status(): 
-{
+```{
 	"set" : "rs0",
 	"date" : ISODate("2019-11-01T16:23:50.635Z"),
 	"myState" : 1,
@@ -144,3 +144,4 @@ rs.status():
 	},
 	"operationTime" : Timestamp(1572625422, 1)
 }
+```
